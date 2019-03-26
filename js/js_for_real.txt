@@ -1,0 +1,1 @@
+second attept to load javascript files
